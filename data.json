@@ -17,7 +17,7 @@
             "username": "김영명",
             "title": "중앙은행 디지털화폐 ‘CBDC’ 도입, 가장 큰 걸림돌은 ‘보안’",
             "content": "CBDC 도입은 개인과 기업에게 조건 없이 계좌 서비스를 제공하면서 일반적으로 금융포용의 정도를 제고시키는 효과가 있을 뿐만 아니라, 현금보다 거래기록 추적이 용이해 불법자금과 지하경제 문제를 완화하는 데도 이바지할 수 있다. 한국은행은 ‘중앙은행 디지털화폐’라는 보고서를 통해 국가 통화를 책임지는 중앙은행 차원에서 CBDC의 기본개념과 구현방식, CBDC 도입 시 중앙은행의 책무에 미치는 영향 등 주요 이슈를 정리한 바 있다.",
-            "imageUrl": ""
+            "imageUrl": "https://raw.githubusercontent.com/doznAvokado/flutter_web_task/master/butterfly.jpg"
         },
         {
             "id": 4,
