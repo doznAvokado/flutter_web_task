@@ -1,4 +1,16 @@
 {
-    "data": "testData",
-    "data2": 1
+    "data": [
+        {
+            "id": 1,
+            "username": "홍길동",
+            "title": "홍길동은 의적인가?",
+            "content": "저는 잘 모르겠습니다"
+        },
+        {
+            "id": 2,
+            "username": "김아무개",
+            "title": "김아무개의 직업은?",
+            "content": "김아무개는 개발자입니다"
+        }
+    ]
 }
